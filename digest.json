@@ -1,28 +1,4 @@
 {
-  "weeks": [
-    {
-      "label": "6 Months ending April 05, 2026",
-      "period": "6months",
-      "date": "2026-04-05",
-      "pdf_key": "pdfs/chiro-digest-2026-04-05.pdf",
-      "paper_count": 0,
-      "papers": []
-    },
-    {
-      "label": "3 Months ending April 05, 2026",
-      "period": "3months",
-      "date": "2026-04-05",
-      "pdf_key": "pdfs/chiro-digest-2026-04-05.pdf",
-      "paper_count": 0,
-      "papers": []
-    },
-    {
-      "label": "Week of April 05, 2026",
-      "date": "2026-04-05",
-      "pdf_key": "pdfs/chiro-digest-2026-04-05.pdf",
-      "paper_count": 0,
-      "papers": []
-    }
-  ],
+  "weeks": [],
   "runningThemes": {}
 }
